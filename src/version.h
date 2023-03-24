@@ -1,1 +1,1 @@
-#define VERSION "0.G-Convenient-3.1"
+#define VERSION "0.G-Convenient-3.2"

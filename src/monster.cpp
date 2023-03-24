@@ -67,6 +67,7 @@
 #include "weakpoint.h"
 #include "weather.h"
 #include "harvest.h"
+#include "item_factory.h"  // 标记 添加 item_factory.h
 
 static const anatomy_id anatomy_default_anatomy( "default_anatomy" );
 
@@ -963,9 +964,6 @@ int monster::print_info( const catacurses::window &w, int vStart, int vLines, in
 
    
    
-    
-    
- 
     
     
 
