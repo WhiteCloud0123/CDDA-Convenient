@@ -965,9 +965,6 @@ int monster::print_info( const catacurses::window &w, int vStart, int vLines, in
    
     
     
- 
-    
-    
 
     
     
